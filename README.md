@@ -1,6 +1,6 @@
 # pcmwave
 pcm数据可视化
-![image](http://thumbnail0.baidupcs.com/thumbnail/712b16be750940a8d8505621f371230a?fid=17709960-250528-197595827664375&time=1472274000&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-AjTy3WssXDCZZBu67A9Bghsqr%2bs%3d&expires=8h&chkbd=0&chkv=0&dp-logid=5556372593844183354&dp-callid=0&size=c1280_u720&quality=90)
+![image](https://github.com/fw1088/pcmwave/drawPcm/output4.png)
 # 开发环境
 qt5.5 addin+vs2012
 # 概述
